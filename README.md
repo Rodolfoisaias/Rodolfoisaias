@@ -2,7 +2,6 @@
 - 👀 I’m interested in new opportunities in the field of programming.
 - 🌱 I’m currently learning JavaScript, css, HTML
 - 📫 How to reach me  rodolfo_isaias@outlook.com
--
 ### Best Tecnologies
 
 <div>
